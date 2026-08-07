@@ -10,22 +10,22 @@ const FOCUS_AREAS = [
   {
     title: 'Business Analytics',
     description:
-      'Translating raw business data into clear, actionable insight for decision-makers.',
+      'Applying analytical thinking to understand business problems and support better decisions.',
   },
   {
     title: 'Data Analytics',
     description:
-      'Cleaning, exploring, and visualizing data with SQL, Python, and Power BI.',
+      'Cleaning, exploring, and visualizing data using SQL, Python, and analytics tools.',
   },
   {
     title: 'Machine Learning',
     description:
-      'Building and evaluating predictive models to solve real business problems.',
+      'Learning and applying machine learning methods to identify patterns and build practical models.',
   },
   {
     title: 'Artificial Intelligence',
     description:
-      'Exploring practical AI applications, from NLP to automated decision support.',
+      'Exploring practical AI tools, agents, and workflows to improve productivity and problem-solving.',
   },
 ]
 
