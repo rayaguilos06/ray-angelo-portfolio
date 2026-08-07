@@ -1,0 +1,68 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 4 0 R >> >> /MediaBox [0 0 612 792] /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1774 >>
+stream
+BT /F1 11 Tf 54 780 Td 14 TL
+(Ray Angelo Aguilos) Tj
+T* (Business Analytics | Data Analytics | Machine Learning | AI) Tj
+T* (Email: ray.aguilos@example.com | GitHub: github.com/rayangeloaguilos | LinkedIn: linkedin.com/in/rayangeloaguilos) Tj
+T* () Tj
+T* (SUMMARY) Tj
+T* (Information Systems graduate specializing in Business Analytics, Data Analytics,) Tj
+T* (Machine Learning, and AI. Skilled in SQL, Python, and Power BI, with experience) Tj
+T* (turning raw data into dashboards, models, and reports that support real decisions.) Tj
+T* () Tj
+T* (EDUCATION) Tj
+T* (BS in Information Systems \(2021 - 2025\)) Tj
+T* (Specialization: Business Analytics, Data Analytics, Machine Learning, and AI.) Tj
+T* () Tj
+T* (EXPERIENCE) Tj
+T* (Data Analytics Intern - Local Business Analytics Team \(2024\)) Tj
+T* (Built dashboards and automated reports supporting weekly business decisions.) Tj
+T* () Tj
+T* (Information Systems Practicum / OJT - Partner Organization \(2023 - 2024\)) Tj
+T* (Documented business processes and helped design a database-backed tool.) Tj
+T* () Tj
+T* (PROJECTS) Tj
+T* (Customer Churn Prediction Model - Python, scikit-learn) Tj
+T* (Sales Performance Dashboard - Power BI, SQL) Tj
+T* (Customer Review Sentiment Analysis - Python, NLP) Tj
+T* (Student Enrollment Database System - SQL, Database Design) Tj
+T* () Tj
+T* (CERTIFICATIONS) Tj
+T* (Google Data Analytics Professional Certificate) Tj
+T* (IBM Data Science Professional Certificate) Tj
+T* (Microsoft Power BI Data Analyst Associate \(PL-300\)) Tj
+T* (Machine Learning Specialization \(DeepLearning.AI / Stanford Online\)) Tj
+T* () Tj
+T* (SKILLS) Tj
+T* (SQL, Python, Power BI, Excel, Pandas, scikit-learn, Machine Learning, NLP,) Tj
+T* (Data Visualization, Statistics, Database Design, Git & GitHub) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2137
+%%EOF
