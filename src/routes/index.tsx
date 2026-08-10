@@ -18,14 +18,9 @@ const FOCUS_AREAS = [
       'Cleaning, exploring, and visualizing data using SQL, Python, and analytics tools.',
   },
   {
-    title: 'Machine Learning',
+    title: 'Machine Learning & AI',
     description:
-      'Learning and applying machine learning methods to identify patterns and build practical models.',
-  },
-  {
-    title: 'Artificial Intelligence',
-    description:
-      'Exploring practical AI tools, agents, and workflows to improve productivity and problem-solving.',
+      'Developing practical skills in machine learning and AI to identify patterns and build useful solutions.',
   },
   {
     title: 'Project Management',
@@ -38,8 +33,8 @@ function Home() {
   return (
     <div>
       {/* Hero Section */}
-      <section className="max-w-5xl mx-auto px-4 py-16 md:py-20">
-        <div className="grid md:grid-cols-2 gap-10 items-center">
+      <section className="max-w-5xl mx-auto px-4 py-20">
+        <div className="grid md:grid-cols-2 gap-12 items-center">
           {/* Introduction */}
           <div>
             <p className="text-lg text-blue-600 font-medium mb-4">
@@ -51,9 +46,8 @@ function Home() {
             </h1>
 
             <p className="text-lg md:text-xl text-gray-600 leading-relaxed max-w-2xl mb-8">
-              I'm interested in using data, analytics, machine learning, AI,
-              and project management to understand problems, improve
-              processes, and build practical solutions.
+              I'm interested in using data, analytics, machine learning, and
+              AI to understand problems and build practical solutions.
             </p>
 
             {/* Buttons */}
@@ -119,7 +113,7 @@ function Home() {
             What I Focus On
           </h2>
 
-          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
             {FOCUS_AREAS.map((area) => (
               <div
                 key={area.title}
