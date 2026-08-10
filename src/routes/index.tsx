@@ -27,17 +27,22 @@ const FOCUS_AREAS = [
     description:
       'Exploring practical AI tools, agents, and workflows to improve productivity and problem-solving.',
   },
+  {
+    title: 'Project Management',
+    description:
+      'Developing skills in project planning, risk analysis, coordination, and technology project delivery.',
+  },
 ]
 
 function Home() {
   return (
-    <div className="bg-white">
+    <div>
       {/* Hero Section */}
-      <section className="max-w-5xl mx-auto px-4 py-20 md:py-28">
-        <div className="grid md:grid-cols-[1fr_auto] gap-12 items-center">
+      <section className="max-w-5xl mx-auto px-4 py-16 md:py-20">
+        <div className="grid md:grid-cols-2 gap-10 items-center">
           {/* Introduction */}
           <div>
-            <p className="text-blue-600 font-medium text-lg mb-4">
+            <p className="text-lg text-blue-600 font-medium mb-4">
               Hi, I'm Ray Angelo Aguilos
             </p>
 
@@ -46,8 +51,9 @@ function Home() {
             </h1>
 
             <p className="text-lg md:text-xl text-gray-600 leading-relaxed max-w-2xl mb-8">
-              I'm interested in using data, analytics, machine learning, and AI
-              to understand problems and build practical solutions.
+              I'm interested in using data, analytics, machine learning, AI,
+              and project management to understand problems, improve
+              processes, and build practical solutions.
             </p>
 
             {/* Buttons */}
@@ -113,7 +119,7 @@ function Home() {
             What I Focus On
           </h2>
 
-          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {FOCUS_AREAS.map((area) => (
               <div
                 key={area.title}
@@ -140,7 +146,8 @@ function Home() {
 
         <p className="text-gray-600 mb-6 max-w-xl mx-auto">
           Open to entry-level opportunities and collaborations in business
-          analytics, data analytics, machine learning, and AI.
+          analytics, data analytics, machine learning, AI, and project
+          management.
         </p>
 
         <Link
