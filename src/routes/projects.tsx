@@ -1,3 +1,9 @@
+import { createFileRoute } from '@tanstack/react-router'
+
+export const Route = createFileRoute('/projects')({
+  component: Projects,
+})
+
 const PROJECTS = [
   {
     title: 'Using Random Forest-Based Performance Signals to Prioritize SEO Content Review',
