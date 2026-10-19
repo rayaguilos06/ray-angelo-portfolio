@@ -7,6 +7,11 @@ export const Route = createFileRoute('/certifications')({
 
 const CERTIFICATIONS = [
   {
+    title: 'Python Data Associate Certificate',
+    issuer: 'DataCamp',
+    year: '2026',
+  },
+  {
     title: 'Data Annotation for Aspiring BPO Professionals',
     issuer: 'University of the Philippines Open University (UPOU)',
     year: '2026',
@@ -68,8 +73,8 @@ function Certifications() {
 
         <p className="text-lg text-gray-600 max-w-2xl leading-relaxed">
           Courses and certifications that support my development in business
-          analytics, data analytics, machine learning, artificial intelligence,
-          and professional problem-solving.
+          analytics, data analytics, Python programming, machine learning,
+          artificial intelligence, and professional problem-solving.
         </p>
       </section>
 
